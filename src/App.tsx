@@ -13,8 +13,6 @@ const PokemonContainer = styled.div`
 function App() {
   const [pokemon, setPokemon] = useState<Pokemon[]>([]);
 
-  const test = "";
-
   const responseGetListPokemon = async () => {
     const res = await getListPokemon();
     setPokemon(res);
