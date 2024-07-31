@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+## Demo
+
+  link demo: [cyber-edu-inkor](https://cyber-edu-inkor.vercel.app/)
+
 ## How To Install
 
 - Clone this repo
